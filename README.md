@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Komin Man</h1>
+<h1 align="center">Hey 👋 What's Up?</h1>
 <h3 align="center">Frontend & Backend Developer | Passionate About Building Efficient, Scalable, and Modern Web Applications</h3>
 
 <p align="center">
@@ -8,38 +8,51 @@
 ---
 
 ### 📫 Contact Me
-<p>
+<p align="center">
   <a href="mailto:generalkomin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-generalkomin@gmail.com-blue?style=flat&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="25" alt="email logo" />
   </a>
   <a href="https://web.facebook.com/luquvdine" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-KominMan-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" alt="facebook logo" />
   </a>
   <a href="https://www.linkedin.com/in/kominmann" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-KominMan-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://twitter.com/kominmann" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
 </p>
 
 ---
 
 ### 💻 Technical Skills
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo" />
+</div>
 
 ---
 
@@ -54,3 +67,17 @@
 - I enjoy transforming ideas into real-world projects 💡  
 - Coffee fuels my coding sessions ☕  
 - Always open to collaboration & sharing knowledge 🤝
+
+---
+
+### 📈 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kominmann&theme=dracula" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kominmann&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kominmann/kominmann/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kominmann/kominmann/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kominmann/kominmann/output/pacman-contribution-graph.svg">
+</picture>
