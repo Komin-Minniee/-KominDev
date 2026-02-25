@@ -2,198 +2,211 @@
 
 <div align="center">
   
-<!-- HEADER WITH CYBER GLITCH (capsule-render) -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,14,16,18&height=150&section=header&text=KOMIN%20MAN&fontSize=70&fontColor=ffffff&animation=twinkling" />
+<!-- HEADER WITH CYBER GLITCH - NEW STYLE -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,4,6,8&height=180&section=header&text=KOMIN%20MAN&fontSize=65&fontColor=fff&animation=fadeIn&desc=NEON%20REBEL&descSize=20" />
 
 </div>
 
-<!-- TYPING SVG ANIMATION (works on GitHub) -->
+<!-- TYPING SVG ANIMATION - NEW FASTER STYLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=Full-stack+Developer;React+%7C+Vue+%7C+Node.js;AI+%26+Machine+Learning;Coffee+Powered" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=300&color=FF00FF&center=true&vCenter=true&width=620&lines=%3E_+Full-stack+Developer;%3E_+React+%7C+Vue+%7C+Node.js;%3E_+AI+%26+Machine+Learning;%3E_+Cyberpunk+Enthusiast" alt="Typing SVG" />
 </p>
 
-<!-- SOCIAL BADGES (shields.io, no external css) -->
+<!-- SOCIAL BADGES - NEW VIBRANT COLORS -->
 <p align="center">
   <a href="https://www.linkedin.com/in/kominmann">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000&color=0A66C2" />
   </a>
   <a href="https://github.com/kominmann">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=white&labelColor=6e40c9&color=000" />
   </a>
   <a href="mailto:generalkomin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000&color=EA4335" />
   </a>
-  <!-- extra cyber badge -->
-  <img src="https://img.shields.io/badge/CYBER-2025-ff00ff?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <!-- new portfolio badge -->
+  <img src="https://img.shields.io/badge/PORTFOLIO-00ff9d?style=for-the-badge&logo=firefox&logoColor=black&labelColor=000&color=00ff9d" />
 </p>
 
-<!-- PROFILE VIEWS COUNTER -->
+<!-- PROFILE VIEWS - NEW DESIGN -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kominmann&label=PROFILE+VIEWS&color=00ffff&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=kominmann&label=⟡PROFILE+VIEWS⟡&color=ff44aa&style=for-the-badge" />
 </p>
 
-<!-- WAVE DIVIDER (unicode/emoji style) -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<!-- CUSTOM ASCII DIVIDER -->
+<pre align="center">
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+</pre>
 
-<!-- ===== ABOUT ME ===== -->
+<!-- ===== ABOUT ME - NEW LAYOUT ===== -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  ABOUT ME
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  █ ABOUT ME █
 </h2>
 
-<table align="center">
+<table align="center" border="0">
   <tr>
-    <td>
-      <ul>
-        <li>🔭 I'm a <b>Full-stack Developer</b> from Cambodia 🇰🇭</li>
-        <li>🌱 Currently learning <b>React, Vue, Node.js & AI/ML</b></li>
-        <li>⚡ Fun fact: <b>Coffee is my copilot ☕</b></li>
-        <li>💬 Ask me about: <b>Web Development</b></li>
-        <li>🎯 2025 Goal: <b>Contribute more to Open Source</b></li>
-      </ul>
+    <td width="60%">
+      <pre>
+┌────────────────────────────────────┐
+│  <b>ID</b>: KOMIN MAN                        │
+│  <b>LOC</b>: CAMBODIA 🇰🇭                      │
+│  <b>ROLE</b>: FULL-STACK DEVELOPER            │
+│  <b>LEARNING</b>: REACT · VUE · NODE · AI/ML  │
+│  <b>FUN FACT</b>: COFFEE = CO-PILOT ☕         │
+│  <b>2025 GOAL</b>: OPEN SOURCE CONTRIBUTIONS  │
+└────────────────────────────────────┘
+      </pre>
     </td>
-    <td>
-      <!-- GIF from GIPHY (works) -->
-      <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="200">
+    <td width="40%" align="center">
+      <!-- cool gif -->
+      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" style="border-radius: 20px; filter: hue-rotate(280deg);">
     </td>
   </tr>
 </table>
 
-<!-- ===== TECH STACK ===== -->
+<!-- ===== TECH STACK - NEW ORGANIZATION ===== -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
-  TECH STACK
+  ⚡ TECH STACK ⚡
 </h2>
 
 <p align="center">
-  <!-- skillicons.dev - pure images, no external css needed -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,nodejs,php,python,mysql,postgres,docker,aws,git,github,tailwind,nextjs,graphql&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,nuxt,nodejs,express,python,fastapi,php,mysql,postgres,mongodb,docker,kubernetes,aws,gcp,git,github,figma,tailwind,redux,graphql&perline=9&theme=dark" />
 </p>
 
-<!-- ===== PROJECTS ===== -->
+<!-- ===== PROJECTS - NEW CARD STYLE ===== -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="40px">
-  PROJECTS
+  🚀 PROJECTS 🚀
 </h2>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="200">
-        <img src="https://skillicons.dev/icons?i=react" width="60"><br>
-        <b>Portfolio</b><br>
-        <sub>React + Tailwind</sub>
+      <td align="center" width="200" style="border: 1px solid #ff00ff; border-radius: 15px; padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=react" width="50"><br>
+        <b><span style="color:#ff44aa;">⟡ PORTFOLIO ⟡</span></b><br>
+        <sub>React · Tailwind · Framer</sub>
       </td>
-      <td align="center" width="200">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="60"><br>
-        <b>E-commerce</b><br>
-        <sub>Node.js + MySQL</sub>
+      <td align="center" width="200" style="border: 1px solid #00ffff; border-radius: 15px; padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="50"><br>
+        <b><span style="color:#44ffaa;">⟡ E-COMMERCE ⟡</span></b><br>
+        <sub>Node.js · MySQL · Stripe</sub>
       </td>
-      <td align="center" width="200">
-        <img src="https://skillicons.dev/icons?i=python" width="60"><br>
-        <b>AI Chatbot</b><br>
-        <sub>Python + NLP</sub>
+      <td align="center" width="200" style="border: 1px solid #ffff00; border-radius: 15px; padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=python" width="50"><br>
+        <b><span style="color:#ffaa00;">⟡ AI CHATBOT ⟡</span></b><br>
+        <sub>Python · NLP · TensorFlow</sub>
       </td>
-      <td align="center" width="200">
-        <img src="https://skillicons.dev/icons?i=docker" width="60"><br>
-        <b>DevOps</b><br>
-        <sub>Docker + AWS</sub>
+      <td align="center" width="200" style="border: 1px solid #ff6600; border-radius: 15px; padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=docker" width="50"><br>
+        <b><span style="color:#ff9900;">⟡ DEVOPS ⟡</span></b><br>
+        <sub>Docker · AWS · Kubernetes</sub>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- ===== GITHUB STATS ===== -->
+<!-- ===== GITHUB STATS - NEW LAYOUT ===== -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40px">
-  GITHUB STATS
+  📊 GITHUB STATS 📊
 </h2>
 
 <div align="center">
-  <!-- github stats cards (tokyonight theme matches cyber) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kominmann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kominmann&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=kominmann&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff44aa&icon_color=00ffff&text_color=ffffff&border_radius=15" width="100%">
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kominmann&theme=radical&hide_border=true&background=0D1117&stroke=ff44aa&ring=00ffff&fire=ffaa00&currStreakNum=ffffff&sideNums=ffffff&border_radius=15" width="100%">
+      </td>
+    </tr>
+  </table>
   
   <br>
   
-  <!-- trophy grid -->
-  <img src="https://github-profile-trophy.vercel.app/?username=kominmann&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
+  <!-- new 3d style trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=kominmann&theme=radical&no-frame=true&no-bg=true&row=2&column=4" width="80%" />
   
-  <!-- top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kominmann&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <br><br>
+  
+  <!-- language stats with custom colors -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kominmann&layout=pie&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff44aa&text_color=ffffff&border_radius=15" width="45%" />
 </div>
 
-<!-- ===== CONTRIBUTIONS ===== -->
+<!-- ===== CONTRIBUTIONS - NEW STYLE ===== -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/3o7TKUM3IgJBX2as9O/giphy.gif" width="40px">
-  CONTRIBUTIONS
+  🐍 CONTRIBUTIONS 🐍
 </h2>
 
-<!-- SNAKE ANIMATION (works on GitHub) -->
+<!-- SNAKE ANIMATION - WORKING -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kominmann/kominmann/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kominmann/kominmann/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/kominmann/kominmann/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/kominmann/kominmann/output/github-contribution-grid-snake.svg" style="max-width:100%; filter: drop-shadow(0 0 20px #ff44aa);">
   </picture>
 </div>
 
-<!-- ACTIVITY GRAPH (works) -->
+<!-- ACTIVITY GRAPH - NEW THEME -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kominmann&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kominmann&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00ffff&line=ff44aa&point=ffffff&area_color=ff44aa20&title_color=ff44aa" width="95%" />
 </div>
 
-<!-- ===== INSPIRATION ===== -->
+<!-- ===== INSPIRATION - NEW STYLE ===== -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/3o6Zta4810qK6EeD4c/giphy.gif" width="40px">
-  INSPIRATION
+  💭 INSPIRATION 💭
 </h2>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
 </div>
 
-<!-- ===== LET'S CONNECT ===== -->
+<!-- ===== CONNECT - NEW ===== -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px">
-  LET'S CONNECT
+  🔗 CONNECT 🔗
 </h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kominmann">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://twitter.com/kominmann">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://discord.com/users/kominmann">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <a href="mailto:generalkomin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <table>
+    <tr>
+      <td><a href="https://www.linkedin.com/in/kominmann"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000"></a></td>
+      <td><a href="https://twitter.com/kominmann"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000"></a></td>
+      <td><a href="https://discord.com/users/kominmann"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000"></a></td>
+      <td><a href="mailto:generalkomin@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000"></a></td>
+    </tr>
+  </table>
 </div>
 
-<!-- ===== FOOTER ===== -->
+<!-- ===== FOOTER - NEW DESIGN ===== -->
 <div align="center">
   
-  <!-- wave footer from capsul render -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=12,14,16,18&height=150&section=footer&text=From%20Cambodia%20with%20💙&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=130&section=footer&text=◈%20PHNOM%20PENH%20◈%20CYBER%20◈&fontSize=22&fontColor=ffffff" />
   
   <br>
   
-  <!-- animated gif row -->
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="100" />
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="100" />
+  <!-- rotating gifs new selection -->
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="80" style="border-radius: 50%;">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="80" style="border-radius: 50%; filter: hue-rotate(90deg);">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="80" style="border-radius: 50%; filter: hue-rotate(180deg);">
   
   <br><br>
   
-  <!-- footer typing svg -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=400&lines=Always+Coding;Always+Learning;Coffee+First" alt="Footer Typing">
+  <!-- new typing footer -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&duration=2000&pause=500&color=FF44AA&center=true&vCenter=true&width=450&lines=%3E_+CODE+IN+THE+DARK;%3E_+DEPLOY+AT+MIDNIGHT;%3E_+LIVE+ON+THE+EDGE" alt="Footer Typing">
   
   <br>
   
-  <!-- reminder to replace username -->
-  <sub>⭐ Replace "kominmann" with your username ⭐</sub>
+  <!-- username reminder -->
+  <sub><span style="background: #000; padding: 5px 15px; border: 1px solid #ff44aa; border-radius: 30px; color: #fff;">⭐ REPLACE "kominmann" WITH YOUR USERNAME ⭐</span></sub>
+  
+  <br><br>
+  
+  <!-- cyber signature -->
+  <pre>⎔ CYBERPUNK 2077 ⎔ READY ⎔</pre>
 </div>
